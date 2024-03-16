@@ -1,4 +1,4 @@
-![POSTECH](https://img.shields.io/badge/POSTECH-#C71585)
+![POSTECH](https://img.shields.io/badge/POSTECH-%C71585)
 ![CSED211](https://img.shields.io/badge/CSED211-gray) 
 
 # Introduction to Computer SW System
