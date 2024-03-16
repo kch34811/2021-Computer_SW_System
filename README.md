@@ -1,4 +1,4 @@
-![POSTECH](https://img.shields.io/badge/CSED342-POSTECH-pink)
+![POSTECH](https://img.shields.io/badge/CSED342-POSTECH-red)
 # Introduction to Computer SW System
 
 This course provide not only the basic concept of computer organization and how the SW works together with the HW, 
