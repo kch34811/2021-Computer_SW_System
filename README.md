@@ -10,16 +10,16 @@ Through this course it is possible to study the Intel assembly languages and pra
 
 # Lab
 **Lab 1**  
-[Data Lab: Manipulating Bits](https://github.com/kch34811/computer-sw-system/tree/main/Lab%201)
+</br> [Data Lab: Manipulating Bits](https://github.com/kch34811/computer-sw-system/tree/main/Lab%201)
 **Lab 2**
-[Data Lab2: Manipulating Bits](https://github.com/kch34811/computer-sw-system/tree/main/Lab%202)
+</br> [Data Lab2: Manipulating Bits](https://github.com/kch34811/computer-sw-system/tree/main/Lab%202)
 **Lab 3**
-[Bomb Lab: Defusing a Binary Bomb](https://github.com/kch34811/computer-sw-system/tree/main/Lab%203)
-## Lab 4
-[The Attack Lab: Understanding Buffer Overflow Bugs](https://github.com/kch34811/computer-sw-system/tree/main/Lab%204)
-## Lab 5
-[Cache Lab: Understanding Cache Memories](https://github.com/kch34811/computer-sw-system/tree/main/Lab%205)
-## Lab 6
-[Shell Lab: Writing Your Own Unix Shell](https://github.com/kch34811/computer-sw-system/tree/main/Lab%206)
-## Lab 7
-[Malloc Lab: Writing a Dynamic Storage Allocator](https://github.com/kch34811/computer-sw-system/tree/main/Lab%207)
+</br> [Bomb Lab: Defusing a Binary Bomb](https://github.com/kch34811/computer-sw-system/tree/main/Lab%203)
+**Lab 4**
+</br> [The Attack Lab: Understanding Buffer Overflow Bugs](https://github.com/kch34811/computer-sw-system/tree/main/Lab%204)
+**Lab 5**
+</br> [Cache Lab: Understanding Cache Memories](https://github.com/kch34811/computer-sw-system/tree/main/Lab%205)
+**Lab 6**
+</br> [Shell Lab: Writing Your Own Unix Shell](https://github.com/kch34811/computer-sw-system/tree/main/Lab%206)
+**Lab 7**
+</br> [Malloc Lab: Writing a Dynamic Storage Allocator](https://github.com/kch34811/computer-sw-system/tree/main/Lab%207)
